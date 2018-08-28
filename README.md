@@ -1,2 +1,2 @@
 # vainglory-heroes
-Vainglory Heroes
+Vainglory Hero Assets
